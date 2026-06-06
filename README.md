@@ -15,6 +15,6 @@
 
    ## Cómo ejecutarlo
    ```bash
-
    pip install -r requirements.txt
-   python exoplanetas_analisis.py
+   python exoplanetas_regresion_lineal.py
+```
